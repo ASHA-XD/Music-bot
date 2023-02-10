@@ -16,7 +16,7 @@ Open the configuration file located in the main folder `config.js`.
 module.exports = {
     app: {
         token: 'XXX',
-        playing: 'by Zerio ❤️',
+        playing: 'by N1xDOMINATOR ❤️',
         global: true,
         guild: 'xxx'
     },
@@ -69,7 +69,7 @@ To use the project correctly you will need some tools.
 
 Without forgetting of course the code editor ^^
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [DOMINATOR-XD](https://github.com/DOMINATOR-XD).
 
 Please do not withdraw the license and keep the credits on this project.
 
@@ -79,7 +79,7 @@ To have full access to the project and to be able to withdraw the credits a smal
 
 - [ ] lyrics command
 
--  [ ] Vote to skip command https://github.com/ZerioDev/Music-bot/issues/187
+-  [ ] Vote to skip command https://github.com/DOMINATOR-XD/Music-bot/issues/187
 
 - [ ] history commnad
 
